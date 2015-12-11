@@ -1,9 +1,12 @@
-# Atom Dark UI theme
+# Cyber UI for Atom
 
-A dark UI theme for Atom.
+A Tron-esque inspired theme, which compliments the matching Cyber Syntax theme, also in development.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+This theme can be installed using the following command:
+
+apm install cyber-ui
+
+In Development:
+Too big of a list to bother at the moment
 
 ![](https://f.cloud.github.com/assets/671378/2265086/c6897dba-9e7b-11e3-945d-551cac610717.png)
